@@ -16,6 +16,7 @@ An overview of the average home in the dataset
 
 # Questions
 1. How does bathroom to bedroom ratio affect price?
+
 2. What effect does housing condition have on sale price, how does this compare to houses with a waterfront view?
 3. In which zip code are houses the oldest on average and what is the average price? What about the newest?
 4. How much is the average house over 1 acre and how many beds&baths does it have on average, how does this compare to the dataset as a whole?
