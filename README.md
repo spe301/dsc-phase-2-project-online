@@ -1,5 +1,7 @@
 # Phase 2 Project
 
+<img src="Images/4hg82b.jpg>
+
 # Introduction
 For this project I looked at the King County housing dataset, King county is the greater Seattle area, to build a model that predicts house prices for homes in the area. The prediction model uses several variables including age (how many years ago the house was built), number of bedrooms and bathrooms, as well as latitude & longitude coordinates. These predictions can be used to give buyers an estimate on the type of house they’re looking to buy, or give sellers insights in pricing their homes as well as possibly increasing the value of their homes.
 
