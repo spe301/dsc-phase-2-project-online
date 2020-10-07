@@ -28,7 +28,7 @@ It would something like this...
 
 4. The average house over 1 acre is also a 3 bed 2 bath but costs about 23.7 percent more on average. The average house over 2 acres is 675k which is only 24.9 percent more than the 1/3 acre home. Surprisingly enough, The largest property was 38 acres and was only $700,000!
 
-<img src="Images/download.jpg/">
+<img src="Images/download.png/">
 
 # Recommendations
 1. houses with more bathrooms than bedrooms cost significantly more than houses with as many or fewer bathrooms than bedrooms. Not much here, more of a curiosity filler
