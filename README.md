@@ -9,6 +9,7 @@ For this project I looked at the King County housing dataset, King county is the
 An overview of the average home in the dataset...
 3 bedrooms, 2 bathrooms, $540,000, ⅓ acre yard, 3 condition (Average), 1 floor, Built in 1971, Located 19 miles from downtown.
 It would something like this...
+<img src="Images/Screenshot(12).png/">
 
 
 # Questions
