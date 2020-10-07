@@ -1,20 +1,15 @@
 # Phase 2 Project
 
-<img src="Images/4hg82b.jpg/">
+<img src="Images/images.jpg/">
 
 # Introduction
 For this project I looked at the King County housing dataset, King county is the greater Seattle area, to build a model that predicts house prices for homes in the area. The prediction model uses several variables including age (how many years ago the house was built), number of bedrooms and bathrooms, as well as latitude & longitude coordinates. These predictions can be used to give buyers an estimate on the type of house they’re looking to buy, or give sellers insights in pricing their homes as well as possibly increasing the value of their homes.
 
 # The Average Seattle Home
-An overview of the average home in the dataset
-   - 3 bedrooms
-   - 2 bathrooms
-   - $540,000
-   - ⅓ acre yard
-   - 3 condition (Average)
-   - 1 floor
-   - Built in 1971
-   - Located 19 miles from downtown
+An overview of the average home in the dataset...
+3 bedrooms, 2 bathrooms, $540,000, ⅓ acre yard, 3 condition (Average), 1 floor, Built in 1971, Located 19 miles from downtown.
+It would something like this...
+
 
 # Questions
 1. How does bathroom to bedroom ratio affect price?
@@ -33,6 +28,8 @@ An overview of the average home in the dataset
 
 4. The average house over 1 acre is also a 3 bed 2 bath but costs about 23.7 percent more on average. The average house over 2 acres is 675k which is only 24.9 percent more than the 1/3 acre home. Surprisingly enough, The largest property was 38 acres and was only $700,000!
 
+<img src="Images/download.jpg/">
+
 # Recommendations
 1. houses with more bathrooms than bedrooms cost significantly more than houses with as many or fewer bathrooms than bedrooms. Not much here, more of a curiosity filler
 
@@ -40,6 +37,8 @@ An overview of the average home in the dataset
 
  3. If you are looking to save, it is best to avoid homes built before 1960 and historic neighborhoods. Homes further inland are also cheaper on average, if you like being closer to mountains this could work out well for you.
 if a big yard is important to you it is well worth the investment to buy a house on a 2 - 2.5 acre yard, provided you can afford it, as you can get 6 to 8 times as much property for only 25% more!
+
+<img src="Images/4hg82b.jpg/">
 
 # Future Work
 Given more time to work with this data I would build a recommendation system that would recommend the best zip code to buy a home for an individual moving to this area. I would also look into zip code data outside of the dataset.
