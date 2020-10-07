@@ -25,8 +25,11 @@ It would something like this...
 
 2. Typically homes in better condition cost more, the average house is $341,067 in bad condition, $542,173 in average condition, and $612,577 in very good condition. However this was not the case for waterfront properties. The average price in bad condition is $658,000, and $2,560,000 in fair condition but prom there price decreases as condition improves, this likely contributes to excluded variables.
 
+<img src="Images/scatter.png/">
 
 3. The 98105 zip code which consists mainly of the Laurelhurst neighborhood near the University of Washington is the oldest with the average house being built in 1940. In contrast, the 98053 zip code in the eastern part of Richmond, WAis the newest with the average house being built in 1998. The average house in 98105 is 863229 and the average house in 98053 is slightly cheaper at $677215.
+
+<img src="Images/down.png/">
 
 4. The average house over 1 acre is also a 3 bed 2 bath but costs about 23.7 percent more on average. The average house over 2 acres is 675k which is only 24.9 percent more than the 1/3 acre home. Surprisingly enough, The largest property was 38 acres and was only $700,000!
 
