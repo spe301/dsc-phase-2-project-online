@@ -20,7 +20,7 @@ It would something like this...
 4. How much is the average house over 1 acre and how many beds&baths does it have on average, how does this compare to the dataset as a whole?
 
 # Conclusions
-1. According to the simple model, which was built specifically for this question, a price increase of $488,537 for each increase in bathroom to bedroom ratio, for example a 2 bedroom house with 4 bathrooms would cost ~1,194,000 and a 2 bedroom 2 bathroom house would be ~$715k given this variable alone. The motivation for this question is that typically average family homes have more bedrooms than bathrooms while the opposite tends to be true for luxury homes. 
+1. According to the simple model, which was built specifically for this question, a price increase of $488,537 for each increase in bathroom to bedroom ratio, for example a 2 bedroom house with 4 bathrooms would cost ~$1,194,000 and a 2 bedroom 2 bathroom house would be ~$715k given this variable alone. The motivation for this question is that typically average family homes have more bedrooms than bathrooms while the opposite tends to be true for luxury homes. 
 
 <img src="Images/download.png/">
 
@@ -28,7 +28,7 @@ It would something like this...
 
 <img src="Images/d.png/">
 
-3. The 98105 zip code which consists mainly of the Laurelhurst neighborhood near the University of Washington is the oldest with the average house being built in 1940. In contrast, the 98053 zip code in the eastern part of Richmond, WAis the newest with the average house being built in 1998. The average house in 98105 is 863229 and the average house in 98053 is slightly cheaper at $677215.
+3. The 98105 zip code which consists mainly of the Laurelhurst neighborhood near the University of Washington is the oldest with the average house being built in 1940. In contrast, the 98053 zip code in the eastern part of Richmond, WAis the newest with the average house being built in 1998. The average house in 98105 is $863,229 and the average house in 98053 is slightly cheaper at $677,215.
 
 <img src="Images/down.png/">
 
